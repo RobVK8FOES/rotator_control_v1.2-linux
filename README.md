@@ -1,5 +1,8 @@
-# rotator_control_v1.2-linux
-A simple Python app to enable IR remote control of RCA VH226E antenna rotators
+# Rotator Control v1.2 For Linux
+
+> A simple Python application that enables PC remote control of the RCA VH226E antenna rotator when paired with a USB IR interface.
+> Tested and working with an Iguanaworks USB IR Transceiver, which is no longer being sold. It **MIGHT** work with an IRDroid USB
+> Infrared Transceiver, but I can't confirm this. Purchase one at your **OWN RISK**!
 
 ## How to install and run:
 
