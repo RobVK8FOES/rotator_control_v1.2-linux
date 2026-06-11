@@ -66,7 +66,7 @@ def send_ir_command(ir_code):
 
 def main():
     root = tk.Tk()
-    root.title("Rotator Control v2.6")
+    root.title("Rotator Control v1.2")
     root.resizable(True, True)  
 
     # Assign the title to a variable so we can measure it later
